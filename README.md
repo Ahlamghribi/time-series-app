@@ -18,7 +18,7 @@
 
 ## 🎯 Project Overview
 
-This application provides an end-to-end solution for time series forecasting, implementing multiple statistical models and machine learning techniques. Developed as part of the ROMARIN Master's program under the supervision of **Professor Djamal Chaabane**, it addresses real-world challenges in economic forecasting, demand prediction, and trend analysis.
+This application provides an end-to-end solution for time series forecasting, implementing multiple statistical models and machine learning techniques. Developed as part of the ROMARIN Master's program , it addresses real-world challenges in economic forecasting, demand prediction, and trend analysis. ( made for a friend <3 by love )
 
 ### 🎓 Academic Context
 
@@ -26,9 +26,6 @@ This application provides an end-to-end solution for time series forecasting, im
 - **Faculty**: Computer Science
 - **Program**: Master ROMARIN
 - **Academic Year**: 2025/2026
-- **Supervisor**: Pr. Djamal Chaabane
-- **Project Duration**: 6 weeks
-- **Submission Date**: December 18, 2024
 
 ---
 
@@ -104,30 +101,6 @@ BIC  = n·log(MSE) + k·log(n)      Bayesian Information Criterion
 - **Best Model Selection**: Automatic identification based on RMSE
 
 ---
-
-## 🖼️ Demo
-
-### Application Interface
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  📈 Prévision des Séries Temporelles                        │
-│  ROMARIN - Master 2025/2026 | USTHB                        │
-├─────────────────┬───────────────────────────────────────────┤
-│  IMPORT         │  VISUALIZATIONS                           │
-│  • Upload CSV   │  ┌─────────────────────────────────────┐ │
-│  • Train/Test   │  │ 📊 Time Series with Forecasts       │ │
-│  • Run Analysis │  │                                     │ │
-│                 │  │  [Interactive Line Chart]           │ │
-│  STATISTICS     │  │                                     │ │
-│  • Mean: 142.5  │  └─────────────────────────────────────┘ │
-│  • Std: 23.4    │                                           │
-│  • Season: P=12 │  ┌─────────────────────────────────────┐ │
-│  • Best: Holt-W │  │ 📊 Residual Analysis                │ │
-│                 │  │  [Bar Chart]                        │ │
-│  OUTPUT LOG     │  └─────────────────────────────────────┘ │
-│  [Detailed...]  │                                           │
-└─────────────────┴───────────────────────────────────────────┘
 ```
 
 ### Sample Output Log
